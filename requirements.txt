@@ -1,0 +1,6 @@
+jupyter==1.0.0
+pandas~=1.5.3
+jupyter_contrib_nbextensions~=0.7.0
+plotly==5.13.0
+lightgbm==3.3.5
+seaborn~=0.12.2
